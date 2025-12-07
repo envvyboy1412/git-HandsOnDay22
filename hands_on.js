@@ -5,3 +5,5 @@ console.log("Hei")
 const name = 'pedroni'
 
 console.log(nama)
+
+console.log('test 123')
